@@ -1,3 +1,9 @@
 body {
-    background-color: blue;
+    background-image: url("https://www.lehavre.fr/sites/default/files/thumbnails/image/chat.jpg");
+    background-size: 1500px;
+}
+
+
+img {
+    margin-top: 40px;
 }
